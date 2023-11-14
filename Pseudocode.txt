@@ -1,0 +1,28 @@
+Create a class/structure that holds the information for a sliding puzzle state.
+
+Have an instance of this class/structure store the information for the goal state.
+
+BFS Function:
+    Store the "visited" states in a structure (linked list, vector, hashmap, etc.)
+    Use a queue structure, initially containing the starting state.
+    While the queue is not empty:
+        If the queue's top is equal to the end state:
+            Return (exit the loop, a solution has been found.)
+        Store the queue's top into some variables.
+        Dequeue.
+        For each move:
+            If the move is valid and not visited yet:
+                Enqueue it.
+    Return (no solution was found.)
+
+Heuristic Function:
+    Store the "visited" states in a structure (linked list, vector, hashmap, etc.)
+    Use a vector structure, initially containing the starting state.
+    While the vector is not empty:
+        Sort the vector based on value (depth + out-of-place tiles), ascending.
+        If the vector's beginning item is equal to the end state:
+            Return (exit the loop, a solution has been found.)
+        For each move:
+            If the move is valid and not visited yet:
+                Append it to the vector.
+    Return (no solution was found.)

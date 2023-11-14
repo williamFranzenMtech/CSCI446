@@ -1,0 +1,15 @@
+Tuples:
+https://www.geeksforgeeks.org/tuples-in-c/
+
+Sorting Vectors of Tuples:
+https://www.geeksforgeeks.org/sorting-vector-tuple-c-ascending-order/
+
+Makefile:
+https://makefiletutorial.com/
+
+General references for structures (vectors, pointers, algorithms, etc.)
+https://en.cppreference.com/w/
+https://cplusplus.com/reference/
+
+I used this for testing:
+https://www.helpfulgames.com/subjects/brain-training/sliding-puzzle.html

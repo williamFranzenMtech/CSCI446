@@ -1,0 +1,13 @@
+Heuristic Data (Length, Time):
+18, 0.01 seconds
+20, 0.71 seconds
+22, 2.78 seconds
+26, 51.94 seconds
+24, 14.38 seconds
+24, 12.68 seconds
+24, 13.23 seconds
+24, 13.65 seconds
+22, 3.23 seconds
+26, 50.73 seconds
+21, 1.48 seconds
+23, 8.43 seconds

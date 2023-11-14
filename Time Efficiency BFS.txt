@@ -1,0 +1,13 @@
+BFS Data (Length, Time):
+24, 166 seconds
+20, 21 seconds
+28, 341 seconds
+26, 279 seconds
+20, 18 seconds
+20, 18 seconds
+20, 21 seconds
+26, 280 seconds
+20, 24 seconds
+26, 238 seconds
+21, 30 seconds
+23, 100 seconds
